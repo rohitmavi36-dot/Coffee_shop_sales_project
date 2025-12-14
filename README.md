@@ -13,6 +13,7 @@ To evaluate store-wise and product-wise performance
 To create an easy-to-use dashboard for quick insights
 
 📊 Dashboard Explanation
+
 1️⃣ Key Performance Indicators (KPIs)
 The top section of the dashboard highlights the most important business metrics:
 Total Sales – Total revenue generated from all transactions
